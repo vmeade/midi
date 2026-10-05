@@ -1,0 +1,58 @@
+MIDITXT 1
+format 0
+division 96
+track
+0 FF 03
+0 FF 58 04022408            # time sig 4/4
+0 FF 58 04022408            # time sig 4/4
+0 90 37 64                  # note_on ch0 G3 vel100
+48 80 37 40                 # note_off ch0 G3
+0 90 3B 64                  # note_on ch0 B3 vel100
+48 80 3B 40                 # note_off ch0 B3
+0 90 3E 64                  # note_on ch0 D4 vel100
+48 80 3E 40                 # note_off ch0 D4
+48 90 3E 64                 # note_on ch0 D4 vel100
+48 80 3E 40                 # note_off ch0 D4
+0 90 43 64                  # note_on ch0 G4 vel100
+48 80 43 40                 # note_off ch0 G4
+48 90 42 64                 # note_on ch0 F#4 vel100
+48 90 2F 64                 # note_on ch0 B2 vel100
+0 80 42 40                  # note_off ch0 F#4
+48 80 2F 40                 # note_off ch0 B2
+0 90 34 64                  # note_on ch0 E3 vel100
+48 80 34 40                 # note_off ch0 E3
+0 90 3B 64                  # note_on ch0 B3 vel100
+48 80 3B 40                 # note_off ch0 B3
+0 90 43 64                  # note_on ch0 G4 vel100
+48 90 3B 64                 # note_on ch0 B3 vel100
+0 80 43 40                  # note_off ch0 G4
+48 80 3B 40                 # note_off ch0 B3
+48 90 3E 64                 # note_on ch0 D4 vel100
+96 90 32 64                 # note_on ch0 D3 vel100
+0 80 3E 40                  # note_off ch0 D4
+48 90 2D 64                 # note_on ch0 A2 vel100
+0 80 32 40                  # note_off ch0 D3
+48 80 2D 40                 # note_off ch0 A2
+0 90 3B 64                  # note_on ch0 B3 vel100
+48 80 3B 40                 # note_off ch0 B3
+48 90 32 64                 # note_on ch0 D3 vel100
+0 90 3B 64                  # note_on ch0 B3 vel100
+48 80 3B 40                 # note_off ch0 B3
+48 80 32 40                 # note_off ch0 D3
+0 90 3B 64                  # note_on ch0 B3 vel100
+0 90 3E 64                  # note_on ch0 D4 vel100
+48 80 3B 40                 # note_off ch0 B3
+48 90 32 64                 # note_on ch0 D3 vel100
+0 80 3E 40                  # note_off ch0 D4
+48 90 43 64                 # note_on ch0 G4 vel100
+48 80 32 40                 # note_off ch0 D3
+0 90 3E 64                  # note_on ch0 D4 vel100
+0 80 43 40                  # note_off ch0 G4
+96 90 32 64                 # note_on ch0 D3 vel100
+0 90 3B 64                  # note_on ch0 B3 vel100
+0 80 3E 40                  # note_off ch0 D4
+48 80 3B 40                 # note_off ch0 B3
+48 80 32 40                 # note_off ch0 D3
+48 90 2B 64                 # note_on ch0 G2 vel100
+48 80 2B 40                 # note_off ch0 G2
+0 FF 2F                     # end of track
